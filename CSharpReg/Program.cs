@@ -13,7 +13,10 @@ namespace CSharpReg
             decimal bedragInKassaBegin = decimal.Parse(Console.ReadLine());
 
             string keuze = "";
+            string redenRetour = "";
             decimal dagTotaal = 0;
+            decimal terugTeGeven = 0;
+            decimal inKassa = 0;
             int aantalBonnen = 0;
             decimal dagTotaalTerug = 0;
 
@@ -105,18 +108,36 @@ namespace CSharpReg
                     }
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 2)
+                else if (keuze == "2")
+                    
                 {
                     // TODO: Afmaken
+                    Console.WriteLine("Uitvoeren terugbetaling");
+                    Console.WriteLine("Bedrag Orginelen bon: ");
+                    terugTeGeven = decimal.Parse(Console.ReadLine());
+                    Console.WriteLine("Reden van retour: ");
+                    redenRetour = Console.ReadLine();
+
+                    dagTotaalTerug = terugTeGeven;
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 3)
+                else if (keuze == "3")
                 {
                     // TODO: Afmaken
+                    Console.WriteLine("======= DAG TOTALEN ========");
+                    Console.WriteLine("In kassa begin:   " + bedragInKassaBegin);
+                    Console.WriteLine("Verkocht:         " + dagTotaal);
+                    Console.WriteLine("Verkocht:         " + dagTotaal);
+                    Console.WriteLine("Retour:           " + dagTotaalTerug);
+                    Console.WriteLine("In kassa:         " + (bedragInKassaBegin + dagTotaal - dagTotaalTerug));
+                    Console.WriteLine("Druk op <ENTER> om door te gaan.");
+                    Console.ReadLine();
+                    Console.WriteLine("Hoeveel zit er nu in de kassa");
+                    inKassa = decimal.Parse(Console.ReadLine());
                 }
             }
             Console.WriteLine("Hoeveel zit er nu in de kassa?");
-            decimal inKassa = decimal.Parse(Console.ReadLine());
+            inKassa = decimal.Parse(Console.ReadLine());
             while (inKassa != (bedragInKassaBegin + dagTotaal - dagTotaalTerug))
             {
                 Console.WriteLine("Je hebt een kassaverschil! Tel de kassa opnieuw");

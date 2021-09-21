@@ -17,3 +17,17 @@ C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharp
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.AssemblyReference.cache
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfoInputs.cache
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfo.cs
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.exe
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.deps.json
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.json
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.runtimeconfig.dev.json
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.dll
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.pdb
+C:\CodeProjects\SchoolProjects\Csharp\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
