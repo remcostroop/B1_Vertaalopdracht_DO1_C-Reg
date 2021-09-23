@@ -107,11 +107,9 @@ namespace CSharpReg
                         }
                     }
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "2")
                     
                 {
-                    // TODO: Afmaken
                     Console.WriteLine("Uitvoeren terugbetaling");
                     Console.WriteLine("Bedrag Orginelen bon: ");
                     terugTeGeven = decimal.Parse(Console.ReadLine());
@@ -120,10 +118,8 @@ namespace CSharpReg
 
                     dagTotaalTerug = terugTeGeven;
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "3")
                 {
-                    // TODO: Afmaken
                     Console.WriteLine("======= DAG TOTALEN ========");
                     Console.WriteLine("In kassa begin:   " + bedragInKassaBegin);
                     Console.WriteLine("Verkocht:         " + dagTotaal);
